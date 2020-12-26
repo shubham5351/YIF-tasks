@@ -1,0 +1,22 @@
+html {
+	overflow-x: hidden;
+}
+
+div .card-deck {
+	padding: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#coursetitle {
+	font-family: Georgia, serif;
+}
+
+div .card {
+	border-radius: 27px;
+}
+
+
+#img1 {
+	border-radius: 20px;
+}
